@@ -1,0 +1,7 @@
+
+<resources>
+<!-- Base application theme. -->
+         <string name="app_name">BasketBall League</string>
+         <string name="teamA">Austin Eagles</string>
+         <string name="teamB">Dunwoody Tigers</string>
+</resources>
